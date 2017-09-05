@@ -1,0 +1,82 @@
+body {
+    background-position: left;
+    color: white;
+}
+
+.homePage {
+    background: url("../../assets/images/9987_2560x1600.jpg");
+}
+
+.blogPage {
+    background-position: center;
+    background-size: cover;
+    background: url("../../assets/images/10052_2560x1600.jpg");
+}
+.img
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+
+    }
+
+.uli
+    ul {
+      
+      background: black;
+      padding: 10px;
+    }
+.ab
+    a {
+      color: white;
+    }
+.line
+    li{
+       display: inline; 
+       padding: 0px 10px 0px 10px;
+    }
+.head
+    h2
+    {
+        color: black;
+       
+    }
+.pa
+ p
+    {color: black;
+
+    }
+
+
+p {
+    font-size: 25px;
+}
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+    color: black;
+}
+
+input[type="submit"] {
+    background: red;
+    color: white;
+}
+
+.container {
+    width: 400px; height: 400px;
+    background-color: #efefef;
+}
+
+
+/* **************** Utilities ****************** */
+
+.ac {
+    text-align: center;
+}
+
+.mt-40 {
+    margin-top: 40px;
+}
+
+/* **************** End Utilities ****************** */
